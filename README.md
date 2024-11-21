@@ -1,3 +1,7 @@
+![Alt text]()       ![Alt text](image-url)      ![Alt text](image-url)
+
+
+
 # Production Analysis
 
 This project aims to optimize production efficiency at our customer's manufacturing by developing a Production Scheduling System that integrates with their existing ERP system. By analyzing production data, we can gain insights into bottlenecks, process timings, and variances, which will allow EMCC to minimize downtime and improve overall production performance.
