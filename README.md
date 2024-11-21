@@ -1,4 +1,5 @@
-![Alt text](https://github.com/DonyaBonyadian/production-Analysis/blob/main/production.png)     ![Alt text](https://github.com/DonyaBonyadian/production-Analysis/blob/main/relashion.png)
+![Alt text](https://github.com/DonyaBonyadian/production-Analysis/blob/main/production.png)    
+![Alt text](https://github.com/DonyaBonyadian/production-Analysis/blob/main/relashion.png)
 ![Alt text](https://github.com/DonyaBonyadian/production-Analysis/blob/main/pr2.png)      ![Alt text](https://github.com/DonyaBonyadian/production-Analysis/blob/main/pr3.png)
 
 
