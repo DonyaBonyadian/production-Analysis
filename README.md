@@ -1,10 +1,10 @@
 ![Alt text](https://github.com/DonyaBonyadian/production-Analysis/blob/main/relashion.png)
 ![Alt text](https://github.com/DonyaBonyadian/production-Analysis/blob/main/production.png) 
-![Alt text](https://github.com/DonyaBonyadian/production-Analysis/blob/main/pr2.png) ![Alt text](https://github.com/DonyaBonyadian/production-Analysis/blob/main/pr3.png)
+![Alt text](https://github.com/DonyaBonyadian/production-Analysis/blob/main/pr2.png)   ![Alt text](https://github.com/DonyaBonyadian/production-Analysis/blob/main/pr3.png)
 
 
 
-# Production Analysis
+# Production Analysis  
 
 This project aims to optimize production efficiency at our customer's manufacturing by developing a Production Scheduling System that integrates with their existing ERP system. By analyzing production data, we can gain insights into bottlenecks, process timings, and variances, which will allow EMCC to minimize downtime and improve overall production performance.
 
